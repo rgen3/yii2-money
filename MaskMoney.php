@@ -127,7 +127,7 @@ var val = parseFloat({$idSave}.val());
 {$id}.{$plugin}('mask', val);
 {$id}.on('change keyup', function (e) {
      if (e.type ==='change' || (e.type === 'keyup' && (e.keyCode == 13 || e.which == 13))) {
-         var out = {$id}.{$plugin}('unmasked')[0];
+         var out = {$id}.{$plugin}('unmaskedWithOptions')[0];
         {$idSave}.val(out).trigger('change');{$debug}
      }
 });
