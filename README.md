@@ -1,6 +1,8 @@
 yii2-money
 ==========
 
+Updated JS library
+
 [![Latest Stable Version](https://poser.pugx.org/kartik-v/yii2-money/v/stable)](https://packagist.org/packages/kartik-v/yii2-money)
 [![License](https://poser.pugx.org/kartik-v/yii2-money/license)](https://packagist.org/packages/kartik-v/yii2-money)
 [![Total Downloads](https://poser.pugx.org/kartik-v/yii2-money/downloads)](https://packagist.org/packages/kartik-v/yii2-money)
